@@ -1,0 +1,9 @@
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Common\bin\Debug\Common.dll
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Common\bin\Debug\Common.pdb
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Common\obj\Debug\Common.dll
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Common\obj\Debug\Common.pdb
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Common\bin\Debug\Common.dll
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Common\bin\Debug\Common.pdb
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Common\obj\Debug\Common.dll
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Common\obj\Debug\Common.pdb

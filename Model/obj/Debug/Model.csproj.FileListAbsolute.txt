@@ -1,0 +1,9 @@
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Model\bin\Debug\Model.dll
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Model\bin\Debug\Model.pdb
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Model\obj\Debug\Model.dll
+D:\宏鹏\班级\5101\y2\webForm\chapter01\Model\obj\Debug\Model.pdb
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Model\bin\Debug\Model.dll
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Model\bin\Debug\Model.pdb
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Model\obj\Debug\Model.dll
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Model\obj\Debug\Model.pdb
+D:\宏鹏\班级\5101\y2\mvc\chapter01\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
